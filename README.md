@@ -1,3 +1,7 @@
+## Acerca de
+
+Este es un tutorial elaborado por [PythonWorkshop](https://github.com/PythonWorkshop/), basado en el trabajo de múltiples colaboradores, y traducido parcialmente al español por Sergio Morales (@fireblend), Zucethy Obando (@Zucethy) y Michael Abarca (@michaelaba10).
+
 ## What's in this tutorial
 
 The notebooks are a modular introduction to machine learning in python using `scikit-learn` with examples and tips.
